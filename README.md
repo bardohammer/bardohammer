@@ -1,8 +1,4 @@
-# 🥷🏻 Hi everyone, I'm Niccolò... a stubborn programmer!
-
-I was born as a graphic designer, 
-I discovered the world of dev at university, and I curse the day I chose graphics in high school...
-I am a Frontend Developer, passionate about creating fluid and reactive products.
+# 🥷🏻 "Where your fear is, there is your task"
 
 
 
