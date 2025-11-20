@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I’m Niccolò Calabrese — Jr Mobile & Software Engineer</h1><br><h3 align="center">🥷🏻 Either you halve your dreams or you double your courage</h3><br><br>- ⚙️ I’m currently working on **something top-secret… check my repos 👀**<br><br>- 🧪 I’m currently learning **React Native, Next.js, Docker, Flutter**<br><br>- 📫 How to reach me **nicchecala@gmail.com**
+<h1 align="center">Hi, I’m Niccolò Calabrese — Jr Mobile & Software Engineer</h1><br><h3 align="center">🥷🏻 Either you halve your dreams or you double your courage</h3><br><br>
+
+	•	⚙️ I’m currently working on a top-secret project… take a peek at my repos 👀
+	•	🧪 I’m currently learning React Native, Next.js, Docker, and Flutter
+	•	📫 You can reach me at nicchecala@gmail.com
 
 
 ## 🌐 Socials:
