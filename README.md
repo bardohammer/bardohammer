@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I’m Niccolò Calabrese — Jr Mobile & Software Engineer</h1>
 <h3 align="center">🥷🏻 Either you halve your dreams or you double your courage</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bardohammer" alt="bardohammer" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bardohammer" alt="bardohammer" />
+  </a>
+</p>
 
 - ⚙️ I’m currently working on **something top-secret… check my repos 👀**
 
@@ -23,4 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bardohammer&show_icons=true&locale=en" alt="bardohammer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bardohammer&" alt="bardohammer" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bardohammer&theme=radical" alt="bardohammer" />
+</p>
